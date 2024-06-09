@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "react-native-multitap": ["./src/index"]
+      "react-native-use-multitap": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

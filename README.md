@@ -1,17 +1,17 @@
-# react-native-multitap
+# react-native-use-multitap
 
 `MultiTapButton` is a custom React component that integrates the `useMultiTap` hook to enable tracking multiple taps on a button. It is particularly useful when you need a button that triggers an action only after multiple taps.
 
 ## Installation
 
-You can install `react-native-multitap` via npm or yarn:
+You can install `react-native-use-multitap` via npm or yarn:
 
 ```bash
-npm install react-native-multitap
+npm install react-native-use-multitap
 ```
 or
 ```bash
-yarn add react-native-multitap
+yarn add react-native-use-multitap
 ```
 
 ## Usage

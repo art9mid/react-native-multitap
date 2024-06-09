@@ -1,7 +1,7 @@
 import * as React from 'react';
 
 import { StyleSheet, View, Text, Pressable } from 'react-native';
-import { useMultiTap, MultiTapButton } from 'react-native-multitap';
+import { useMultiTap, MultiTapButton } from 'react-native-use-multitap';
 
 export default function App() {
   const multiTap = useMultiTap(3);

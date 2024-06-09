@@ -1,5 +1,5 @@
 {
-  "name": "react-native-multitap",
+  "name": "react-native-use-multitap",
   "version": "0.1.0",
   "description": "React Native multi tap",
   "main": "lib/commonjs/index",
@@ -26,7 +26,7 @@
     "!**/.*"
   ],
   "scripts": {
-    "example": "yarn workspace react-native-multitap-example",
+    "example": "yarn workspace react-native-use-multitap-example",
     "test": "jest",
     "typecheck": "tsc --noEmit",
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
@@ -41,14 +41,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/art9mid/react-native-multitap.git"
+    "url": "git+https://github.com/art9mid/react-native-use-multitap.git"
   },
   "author": "Artem Pyvovar <artefan40@gmail.com> (https://github.com/art9mid)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/art9mid/react-native-multitap/issues"
+    "url": "https://github.com/art9mid/react-native-use-multitap/issues"
   },
-  "homepage": "https://github.com/art9mid/react-native-multitap#readme",
+  "homepage": "https://github.com/art9mid/react-native-use-multitap#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
